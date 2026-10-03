@@ -112,38 +112,6 @@ Bun and TypeScript project used to build and test CI/CD pipelines.
 
 ---
 
-## GitHub Stats
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atul-ThakreLO&show_icons=true&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568&icon_color=2D3748&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=Atul-ThakreLO&theme=transparent&hide_border=true&ring=2D3748&fire=2D3748&currStreakLabel=2D3748" alt="GitHub Streak" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-ThakreLO&layout=compact&theme=transparent&hide_border=true&title_color=2D3748&text_color=4A5568&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
----
-
-## DSA
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Logers-AT/)
-
----
-
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://atul-thakre-portfolio.vercel.app/)
